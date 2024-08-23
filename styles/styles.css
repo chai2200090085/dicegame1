@@ -1,0 +1,27 @@
+.ass{
+    font-size: 7rem;
+    margin: 0px;
+    padding-top: 0px;
+    color:green
+}
+.body{
+    background-color: antiquewhite;
+}
+img{
+    width: 250px;
+    height: 260px;
+}
+.table
+{
+    margin-left: 320px;
+}
+.td{
+    padding-right:50px ;
+}
+.td1{
+    padding-left:50px ;
+}
+.tr
+{
+    background-color: aquamarine;
+}
